@@ -35,6 +35,9 @@ yarn start
 
 ## Deploy on Vercel
 
+Deploy Link https://siparis-yonetimi-task.vercel.app/
+
+
 ## Detail
 
 - **EN** : The project was developed for an order management system. In the "Pending Orders" tab, orders should be
